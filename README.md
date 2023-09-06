@@ -1,4 +1,4 @@
-👋 Hello, I'm Ricky Plummer, a 19-year-old developer with a passion for technology and medicine. I am on a journey to become a surgeon.
+👋 Hello, I'm Ricky Plummer, a 19-year-old developer with a passion for technology and medicine.
 
 🛠️ **Technical Skills**
 - Full-Stack Development
